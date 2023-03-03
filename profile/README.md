@@ -4,17 +4,16 @@
   </a>
 </p>
 
-# Welcome to the Open Liberty Project
+## Welcome to the Open Liberty Project
 
-### This is where it all happens!
+#### This is where it all happens!
 * [Open liberty runtime](https://github.com/OpenLiberty/open-liberty)
 * [Guides](https://github.com/orgs/OpenLiberty/repositories?q=guide&type=all&language=&sort=)
 * [Documentation](https://github.com/orgs/OpenLiberty/repositories?q=docs&type=all&language=&sort=)
 * [Website](https://github.com/OpenLiberty/openliberty.io)
-* and much more...
 
-### [Check out our latest news](https://openliberty.io/blog/)
-
-### [Future plans](https://github.com/orgs/OpenLiberty/projects/2)
+ [Check out our latest news](https://openliberty.io/blog/)
+ 
+ [Future plans](https://github.com/orgs/OpenLiberty/projects/2)
 
 Usage is provided under the [EPL 2.0 license](https://opensource.org/licenses/EPL-2.0) See LICENSE for the full details.
