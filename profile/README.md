@@ -6,7 +6,7 @@
 
 ## Welcome to the Open Liberty Project
 
-Open Liberty is an open source implementation of Eclipse MicroProfile and Java EE from IBM. It is the foundation of the WebSphere Liberty app server.
+Open Liberty is an open source implementation of Eclipse MicroProfile and Jakarta EE from IBM. It is the foundation of the WebSphere Liberty app server.
 
 * [Get started](https://openliberty.io/start/)
 * [Check out our latest news](https://openliberty.io/blog/)
