@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://openliberty.io/">
-    <img src="https://github.com/OpenLiberty/open-liberty/blob/integration/images/openliberty_v2.png" alt="title" >
+    <img src="https://github.com/OpenLiberty/logos/blob/main/combomark/png/OL_logo_green_on_white.png" alt="title" >
   </a>
 </p>
 
